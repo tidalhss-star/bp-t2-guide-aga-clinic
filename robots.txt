@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guide.aga-clinic.space/sitemap.xml
