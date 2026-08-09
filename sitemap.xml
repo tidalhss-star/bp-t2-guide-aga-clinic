@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://guide.aga-clinic.space/blog-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://guide.aga-clinic.space/blog-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://guide.aga-clinic.space/blog-4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://guide.aga-clinic.space/digest.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://guide.aga-clinic.space/</loc>
-    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://guide.aga-clinic.space/blog-4.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <loc>https://guide.aga-clinic.space/posts/field_note-001-1ha41fl.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://guide.aga-clinic.space/digest.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <loc>https://guide.aga-clinic.space/posts/guide-005-1c4ymkt.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://guide.aga-clinic.space/blog-3.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <loc>https://guide.aga-clinic.space/posts/major_compare-002-1u4jfm4.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://guide.aga-clinic.space/blog-2.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <loc>https://guide.aga-clinic.space/posts/myth-004-dss1hb.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://guide.aga-clinic.space/posts/qa-003-1mybhs4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
